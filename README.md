@@ -13,4 +13,16 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/0020-valid-parentheses) |
+## Array
+|  |
+| ------- |
+| [0436-find-right-interval](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/0436-find-right-interval) |
+## Binary Search
+|  |
+| ------- |
+| [0436-find-right-interval](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/0436-find-right-interval) |
+## Sorting
+|  |
+| ------- |
+| [0436-find-right-interval](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/0436-find-right-interval) |
 <!---LeetCode Topics End-->
