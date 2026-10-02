@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/0022-generate-parentheses) |
 ## Stack
 |  |
 | ------- |
@@ -13,6 +14,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/0022-generate-parentheses) |
 ## Array
 |  |
 | ------- |
@@ -29,9 +31,14 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/0022-generate-parentheses) |
 | [0413-arithmetic-slices](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/0413-arithmetic-slices) |
 ## Sliding Window
 |  |
 | ------- |
 | [0413-arithmetic-slices](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/0413-arithmetic-slices) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
