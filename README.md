@@ -7,17 +7,20 @@
 | [0020-valid-parentheses](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/0678-valid-parenthesis-string) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/0678-valid-parenthesis-string) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/0678-valid-parenthesis-string) |
 ## Array
 |  |
 | ------- |
@@ -41,6 +44,7 @@
 | [0022-generate-parentheses](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/0032-longest-valid-parentheses) |
 | [0413-arithmetic-slices](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/0413-arithmetic-slices) |
+| [0678-valid-parenthesis-string](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/0678-valid-parenthesis-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -58,4 +62,8 @@
 |  |
 | ------- |
 | [2553-separate-the-digits-in-an-array](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/2553-separate-the-digits-in-an-array) |
+## Greedy
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
