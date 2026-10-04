@@ -7,6 +7,7 @@
 | [0020-valid-parentheses](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/0032-longest-valid-parentheses) |
+| [0524-longest-word-in-dictionary-through-deleting](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0678-valid-parenthesis-string](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/0678-valid-parenthesis-string) |
 ## Stack
 |  |
@@ -28,6 +29,7 @@
 | [0413-arithmetic-slices](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/0413-arithmetic-slices) |
 | [0414-third-maximum-number](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/0414-third-maximum-number) |
 | [0436-find-right-interval](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/0436-find-right-interval) |
+| [0524-longest-word-in-dictionary-through-deleting](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/2553-separate-the-digits-in-an-array) |
 ## Binary Search
 |  |
@@ -38,6 +40,7 @@
 | ------- |
 | [0414-third-maximum-number](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/0414-third-maximum-number) |
 | [0436-find-right-interval](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/0436-find-right-interval) |
+| [0524-longest-word-in-dictionary-through-deleting](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/0524-longest-word-in-dictionary-through-deleting) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -66,4 +69,8 @@
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/0678-valid-parenthesis-string) |
+## Two Pointers
+|  |
+| ------- |
+| [0524-longest-word-in-dictionary-through-deleting](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/0524-longest-word-in-dictionary-through-deleting) |
 <!---LeetCode Topics End-->
