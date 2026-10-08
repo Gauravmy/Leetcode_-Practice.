@@ -2,34 +2,31 @@ class Solution {
 public:
     int minimumEffort(vector<vector<int>>& tasks) {
 
-        int n = tasks.size();
+        // Difference ko descending order mein arrange karo
+        for(int i = 0; i < tasks.size(); i++) {
+            for(int j = i + 1; j < tasks.size(); j++) {
 
-        // Difference ke according sort
-        for(int i = 0; i < n; i++) {
-            for(int j = i + 1; j < n; j++) {
+                if(tasks[i][1] - tasks[i][0] <
+                   tasks[j][1] - tasks[j][0]) {
 
-                int x = tasks[i][1] - tasks[i][0];
-                int y = tasks[j][1] - tasks[j][0];
-
-                if(x < y)
                     swap(tasks[i], tasks[j]);
+                }
             }
         }
 
-        int energy = 0;
         int ans = 0;
+        int energy = 0;
 
-        for(int i = 0; i < n; i++) {
+        for(int i = 0; i < tasks.size(); i++) {
 
-            int actual = tasks[i][0];
-            int minimum = tasks[i][1];
-
-            if(energy < minimum) {
-                ans += minimum - energy;
-                energy = minimum;
+            // Task start karne ke liye energy kam hai
+            if(energy < tasks[i][1]) {
+                ans += tasks[i][1] - energy;
+                energy = tasks[i][1];
             }
 
-            energy -= actual;
+            // Actual energy spend karo
+            energy -= tasks[i][0];
         }
 
         return ans;
