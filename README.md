@@ -40,6 +40,7 @@
 | [0414-third-maximum-number](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/0414-third-maximum-number) |
 | [0436-find-right-interval](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/0436-find-right-interval) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/0524-longest-word-in-dictionary-through-deleting) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/2553-separate-the-digits-in-an-array) |
 ## Binary Search
 |  |
@@ -51,6 +52,7 @@
 | [0414-third-maximum-number](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/0414-third-maximum-number) |
 | [0436-find-right-interval](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/0436-find-right-interval) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/0524-longest-word-in-dictionary-through-deleting) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -81,6 +83,7 @@
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 ## Two Pointers
 |  |
 | ------- |
