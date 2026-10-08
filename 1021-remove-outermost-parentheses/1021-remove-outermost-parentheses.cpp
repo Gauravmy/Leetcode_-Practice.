@@ -1,25 +1,12 @@
 class Solution {
 public:
-    string removeOuterParentheses(string s) {
-        string ans = "";
-        int count = 0;
-
-        for(char c : s) {
-
-            if(c == '(') {
-                if(count > 0)
-                    ans += c;
-                count++;
-            }
-
-            else {
-                count--;
-
-                if(count > 0)
-                    ans += c;
-            }
+    string removeOuterParentheses(string S) {
+        string res;
+        int opened = 0;
+        for (char c : S) {
+            if (c == '(' && opened++ > 0) res += c;
+            if (c == ')' && opened-- > 1) res += c;
         }
-
-        return ans;
+        return res;
     }
 };
