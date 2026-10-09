@@ -1,14 +1,30 @@
 class Solution {
 public:
-    static int minInsertions(string& s) {
-        int p=0, k=0;
-        for(char c: s){
-            const bool isOpen=c=='(';
-            p+=(isOpen<<1)-(!isOpen);
-            const bool pOdd=p&1, pNeg=p<0;
-            k+=(isOpen & pOdd)+(!isOpen & pNeg);
-            p+=-(isOpen & pOdd)+((!isOpen & pNeg)<<1);
+    int minInsertions(string s) {
+        int ans = 0, open = 0;
+
+        for(int i = 0; i < s.size(); i++) {
+
+            if(s[i] == '(') {
+                open++;
+            }
+            else {
+                if(i + 1 < s.size() && s[i + 1] == ')') {
+                    i++;
+                }
+                else {
+                    ans++;
+                }
+
+                if(open > 0) {
+                    open--;
+                }
+                else {
+                    ans++;
+                }
+            }
         }
-        return p+k;
+
+        return ans + open * 2;
     }
 };
