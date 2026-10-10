@@ -44,11 +44,13 @@
 | [0436-find-right-interval](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/0436-find-right-interval) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/2333-minimum-sum-of-squared-difference) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/2553-separate-the-digits-in-an-array) |
 ## Binary Search
 |  |
 | ------- |
 | [0436-find-right-interval](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/0436-find-right-interval) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/2333-minimum-sum-of-squared-difference) |
 ## Sorting
 |  |
 | ------- |
@@ -56,6 +58,7 @@
 | [0436-find-right-interval](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/0436-find-right-interval) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/2333-minimum-sum-of-squared-difference) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -88,6 +91,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/2333-minimum-sum-of-squared-difference) |
 ## Two Pointers
 |  |
 | ------- |
@@ -96,4 +100,8 @@
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/0301-remove-invalid-parentheses) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/2333-minimum-sum-of-squared-difference) |
 <!---LeetCode Topics End-->
