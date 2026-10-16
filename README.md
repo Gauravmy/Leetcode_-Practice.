@@ -43,6 +43,7 @@
 | [0413-arithmetic-slices](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/0413-arithmetic-slices) |
 | [0414-third-maximum-number](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/0414-third-maximum-number) |
 | [0436-find-right-interval](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/0436-find-right-interval) |
+| [0485-max-consecutive-ones](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/0485-max-consecutive-ones) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/2333-minimum-sum-of-squared-difference) |
