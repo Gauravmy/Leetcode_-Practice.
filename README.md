@@ -57,6 +57,7 @@
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3206-alternating-groups-i](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/3206-alternating-groups-i) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Binary Search
@@ -94,6 +95,7 @@
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/0219-contains-duplicate-ii) |
 | [0413-arithmetic-slices](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/0413-arithmetic-slices) |
+| [3206-alternating-groups-i](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/3206-alternating-groups-i) |
 ## Backtracking
 |  |
 | ------- |
