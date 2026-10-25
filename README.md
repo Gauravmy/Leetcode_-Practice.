@@ -46,6 +46,7 @@
 | [0413-arithmetic-slices](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/0413-arithmetic-slices) |
 | [0414-third-maximum-number](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/0414-third-maximum-number) |
 | [0436-find-right-interval](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/0436-find-right-interval) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/0485-max-consecutive-ones) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0645-set-mismatch](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/0645-set-mismatch) |
@@ -77,6 +78,7 @@
 | ------- |
 | [0414-third-maximum-number](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/0414-third-maximum-number) |
 | [0436-find-right-interval](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/0436-find-right-interval) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0645-set-mismatch](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/0645-set-mismatch) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/0646-maximum-length-of-pair-chain) |
@@ -158,6 +160,7 @@
 ## Math
 |  |
 | ------- |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2409-count-days-spent-together](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/2409-count-days-spent-together) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/3723-maximize-sum-of-squares-of-digits) |
