@@ -43,6 +43,7 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/0088-merge-sorted-array) |
+| [0128-longest-consecutive-sequence](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/0128-longest-consecutive-sequence) |
 | [0219-contains-duplicate-ii](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/0219-contains-duplicate-ii) |
 | [0413-arithmetic-slices](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/0413-arithmetic-slices) |
 | [0414-third-maximum-number](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/0414-third-maximum-number) |
@@ -114,6 +115,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/0128-longest-consecutive-sequence) |
 | [0219-contains-duplicate-ii](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/0219-contains-duplicate-ii) |
 | [0645-set-mismatch](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/0645-set-mismatch) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -194,6 +196,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/0128-longest-consecutive-sequence) |
 | [1254-number-of-closed-islands](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/3619-count-islands-with-total-value-divisible-by-k) |
