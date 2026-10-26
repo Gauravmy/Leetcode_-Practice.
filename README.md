@@ -42,6 +42,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/0035-search-insert-position) |
+| [0088-merge-sorted-array](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/0088-merge-sorted-array) |
 | [0219-contains-duplicate-ii](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/0219-contains-duplicate-ii) |
 | [0413-arithmetic-slices](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/0413-arithmetic-slices) |
 | [0414-third-maximum-number](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/0414-third-maximum-number) |
@@ -77,6 +78,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/0088-merge-sorted-array) |
 | [0414-third-maximum-number](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/0414-third-maximum-number) |
 | [0436-find-right-interval](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/0436-find-right-interval) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -137,6 +139,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/0088-merge-sorted-array) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0647-palindromic-substrings](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/0647-palindromic-substrings) |
 ## Breadth-First Search
