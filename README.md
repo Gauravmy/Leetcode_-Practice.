@@ -118,6 +118,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/0128-longest-consecutive-sequence) |
+| [0202-happy-number](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/0219-contains-duplicate-ii) |
 | [0645-set-mismatch](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/0645-set-mismatch) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -144,6 +145,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/0088-merge-sorted-array) |
+| [0202-happy-number](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/0202-happy-number) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0647-palindromic-substrings](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/0647-palindromic-substrings) |
 ## Breadth-First Search
@@ -170,6 +172,7 @@
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/0202-happy-number) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2409-count-days-spent-together](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/2409-count-days-spent-together) |
@@ -234,4 +237,8 @@
 | [1254-number-of-closed-islands](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/3882-minimum-xor-path-in-a-grid) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
