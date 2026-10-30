@@ -8,6 +8,7 @@
 | [0022-generate-parentheses](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/0032-longest-valid-parentheses) |
 | [0301-remove-invalid-parentheses](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/0301-remove-invalid-parentheses) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0647-palindromic-substrings](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/0678-valid-parenthesis-string) |
@@ -169,6 +170,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0645-set-mismatch](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/0645-set-mismatch) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/3644-maximum-k-to-sort-a-permutation) |
@@ -178,6 +180,7 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/0202-happy-number) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2409-count-days-spent-together](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/2409-count-days-spent-together) |
