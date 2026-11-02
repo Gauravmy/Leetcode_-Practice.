@@ -9,6 +9,7 @@
 | [0032-longest-valid-parentheses](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/0032-longest-valid-parentheses) |
 | [0301-remove-invalid-parentheses](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/0301-remove-invalid-parentheses) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0459-repeated-substring-pattern](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/0459-repeated-substring-pattern) |
 | [0504-base-7](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/0504-base-7) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0647-palindromic-substrings](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/0647-palindromic-substrings) |
@@ -269,4 +270,16 @@
 |  |
 | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## String Matching
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/0459-repeated-substring-pattern) |
+## Z Algorithm
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/0459-repeated-substring-pattern) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
