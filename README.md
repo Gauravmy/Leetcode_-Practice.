@@ -70,6 +70,7 @@
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3206-alternating-groups-i](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/3206-alternating-groups-i) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/3644-maximum-k-to-sort-a-permutation) |
@@ -111,6 +112,7 @@
 | [0647-palindromic-substrings](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/0678-valid-parenthesis-string) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3665-twisted-mirror-path-count](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Sliding Window
@@ -119,6 +121,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/0219-contains-duplicate-ii) |
 | [0413-arithmetic-slices](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/0413-arithmetic-slices) |
 | [3206-alternating-groups-i](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/3206-alternating-groups-i) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Backtracking
 |  |
 | ------- |
@@ -134,6 +137,7 @@
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Simulation
 |  |
@@ -168,6 +172,7 @@
 |  |
 | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/2333-minimum-sum-of-squared-difference) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Enumeration
 |  |
@@ -192,6 +197,7 @@
 | [0504-base-7](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/0504-base-7) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2409-count-days-spent-together](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/2409-count-days-spent-together) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Binary Indexed Tree
