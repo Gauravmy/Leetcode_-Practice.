@@ -61,6 +61,7 @@
 | [0645-set-mismatch](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/0645-set-mismatch) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/0646-maximum-length-of-pair-chain) |
 | [1254-number-of-closed-islands](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/1254-number-of-closed-islands) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/2089-find-target-indices-after-sorting-array) |
@@ -86,6 +87,7 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/0035-search-insert-position) |
 | [0436-find-right-interval](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/0436-find-right-interval) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/2333-minimum-sum-of-squared-difference) |
 ## Sorting
@@ -98,6 +100,7 @@
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0645-set-mismatch](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/0645-set-mismatch) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/0646-maximum-length-of-pair-chain) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/2333-minimum-sum-of-squared-difference) |
@@ -164,6 +167,7 @@
 | [0202-happy-number](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/0202-happy-number) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0647-palindromic-substrings](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/0647-palindromic-substrings) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Breadth-First Search
 |  |
 | ------- |
