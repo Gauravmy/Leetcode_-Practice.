@@ -67,6 +67,7 @@
 | [2089-find-target-indices-after-sorting-array](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/2333-minimum-sum-of-squared-difference) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/2553-separate-the-digits-in-an-array) |
+| [2747-count-zero-request-servers](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/2747-count-zero-request-servers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -104,6 +105,7 @@
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/2333-minimum-sum-of-squared-difference) |
+| [2747-count-zero-request-servers](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/2747-count-zero-request-servers) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Dynamic Programming
@@ -124,6 +126,7 @@
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/0219-contains-duplicate-ii) |
 | [0413-arithmetic-slices](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/0413-arithmetic-slices) |
+| [2747-count-zero-request-servers](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/2747-count-zero-request-servers) |
 | [3206-alternating-groups-i](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/3206-alternating-groups-i) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Backtracking
@@ -139,6 +142,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/0219-contains-duplicate-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/0645-set-mismatch) |
+| [2747-count-zero-request-servers](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/2747-count-zero-request-servers) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
