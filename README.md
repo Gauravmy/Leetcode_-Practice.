@@ -61,6 +61,7 @@
 | [0645-set-mismatch](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/0645-set-mismatch) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/0646-maximum-length-of-pair-chain) |
 | [1254-number-of-closed-islands](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/1665-minimum-initial-energy-to-finish-tasks) |
@@ -178,6 +179,7 @@
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/0301-remove-invalid-parentheses) |
 | [1254-number-of-closed-islands](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Heap (Priority Queue)
 |  |
@@ -244,6 +246,7 @@
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/0128-longest-consecutive-sequence) |
 | [1254-number-of-closed-islands](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/1267-count-servers-that-communicate) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Search Tree
@@ -270,12 +273,14 @@
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Matrix
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3665-twisted-mirror-path-count](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -303,4 +308,8 @@
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/0459-repeated-substring-pattern) |
+## Counting
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/1267-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
