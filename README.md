@@ -66,6 +66,7 @@
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [1732-find-the-highest-altitude](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/1732-find-the-highest-altitude) |
 | [1882-process-tasks-using-servers](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/1882-process-tasks-using-servers) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/2333-minimum-sum-of-squared-difference) |
@@ -319,4 +320,8 @@
 |  |
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+## Prefix Sum
+|  |
+| ------- |
+| [1732-find-the-highest-altitude](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/1732-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
