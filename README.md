@@ -80,6 +80,7 @@
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3206-alternating-groups-i](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/3206-alternating-groups-i) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -138,6 +139,7 @@
 | [0413-arithmetic-slices](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/0413-arithmetic-slices) |
 | [2747-count-zero-request-servers](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/2747-count-zero-request-servers) |
 | [3206-alternating-groups-i](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/3206-alternating-groups-i) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Backtracking
@@ -334,6 +336,7 @@
 |  |
 | ------- |
 | [1732-find-the-highest-altitude](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/1732-find-the-highest-altitude) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/3364-minimum-positive-sum-subarray) |
 ## Queue
 |  |
 | ------- |
