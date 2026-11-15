@@ -65,6 +65,7 @@
 | [1254-number-of-closed-islands](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/1665-minimum-initial-energy-to-finish-tasks) |
@@ -127,6 +128,7 @@
 | [0646-maximum-length-of-pair-chain](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/0646-maximum-length-of-pair-chain) |
 | [0647-palindromic-substrings](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/0678-valid-parenthesis-string) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3665-twisted-mirror-path-count](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/3665-twisted-mirror-path-count) |
@@ -224,6 +226,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0504-base-7](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/0504-base-7) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/1344-angle-between-hands-of-a-clock) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2409-count-days-spent-together](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/2409-count-days-spent-together) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -335,6 +338,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1732-find-the-highest-altitude](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/1732-find-the-highest-altitude) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/3364-minimum-positive-sum-subarray) |
 ## Queue
