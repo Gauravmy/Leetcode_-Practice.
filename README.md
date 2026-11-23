@@ -9,6 +9,7 @@
 | [0032-longest-valid-parentheses](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/0032-longest-valid-parentheses) |
 | [0301-remove-invalid-parentheses](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/0301-remove-invalid-parentheses) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0434-number-of-segments-in-a-string](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/0434-number-of-segments-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/0459-repeated-substring-pattern) |
 | [0504-base-7](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/0504-base-7) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/Gauravmy/Leetcode_-Practice./tree/master/0524-longest-word-in-dictionary-through-deleting) |
